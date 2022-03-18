@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chengyuwu-98
+- 👋 Hi, I’m Fiona
 - 👀 I’m interested in Data Science. 
 - 🌱 I’m currently learning Economics and Computer Science at Duke University. 
 - 💞️ I’m looking to collaborate on Machine Leanring. 
